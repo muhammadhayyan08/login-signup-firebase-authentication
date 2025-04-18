@@ -10,7 +10,7 @@ body {
 }
 
 .auth-container, .home-container {
-  max-width: 320px;
+  max-width: 250px;
   width: 100%;
   background-color: #ffffff;
   padding: 40px 30px;
